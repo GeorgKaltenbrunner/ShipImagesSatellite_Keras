@@ -1,2 +1,2 @@
 # ShipImagesSatellite_Keras
-Training a model that detect ships from satellite images
+Training a model that detect ships from satellite images using CNN
